@@ -29,10 +29,26 @@
     "cache",
     "caching",
     "invalidation",
-    "mongodb"
+    "mongodb",
+    "ioredis",
+    "aggregation",
+    "ttl",
+    "performance"
   ],
   "author": "Break Limits",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/break-limits/mongoose-cache.git"
+  },
+  "bugs": {
+    "url": "https://github.com/break-limits/mongoose-cache/issues"
+  },
+  "homepage": "https://github.com/break-limits/mongoose-cache#readme",
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "engines": {
     "node": ">=18"
   },
