@@ -1,6 +1,6 @@
 {
   "name": "@break-limits/mongoose-cache",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A transparent, correctness-first data acceleration layer for Mongoose backed by Redis. Never serves stale data.",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -40,12 +40,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/break-limits/mongoose-cache.git"
+    "url": "git+https://github.com/Aladdin16659/mongoose-redis-cache.git"
   },
   "bugs": {
-    "url": "https://github.com/break-limits/mongoose-cache/issues"
+    "url": "https://github.com/Aladdin16659/mongoose-redis-cache/issues"
   },
-  "homepage": "https://github.com/break-limits/mongoose-cache#readme",
+  "homepage": "https://github.com/Aladdin16659/mongoose-redis-cache#readme",
   "sideEffects": false,
   "publishConfig": {
     "access": "public"
